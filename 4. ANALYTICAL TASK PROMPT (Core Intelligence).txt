@@ -1,0 +1,48 @@
+Perform a complete business analysis:
+
+1. Trend Analysis
+- Explain overall sales trend
+- Identify growth or decline patterns
+- Support with reasoning
+
+2. Root Cause Analysis
+- Explain WHY sales changed
+- Correlate:
+  - Promotions
+  - Transactions
+  - Seasonality
+  - External factors
+
+3. Customer Behavior Insights
+- What does transaction data indicate?
+- Are customers increasing or decreasing?
+
+4. Promotion Effectiveness
+- Are promotions driving sales?
+- Is ROI of promotions justified?
+
+5. Anomaly Detection Analysis
+- Identify unusual spikes/drops
+- Provide possible business reasons
+
+6. Forecast Interpretation
+- Explain future sales trend
+- What does it mean for the business?
+
+7. Risk Identification
+- Highlight potential risks
+- Example: declining demand, overstock, low engagement
+
+8. Opportunity Identification
+- Highlight growth opportunities
+- Example: seasonal demand, high-performing products
+
+9. Strategic Recommendations
+Provide:
+- Short-term actions (next 30 days)
+- Medium-term strategy (3–6 months)
+- Long-term improvements
+
+10. Decision Support
+- What should management DO next?
+- Be direct and actionable

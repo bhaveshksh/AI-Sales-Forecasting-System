@@ -1,0 +1,44 @@
+Provide output in this format:
+
+📌 Executive Summary (2–3 lines)
+
+📊 Key Insights
+- Bullet points (data-backed insights)
+
+🔍 Root Cause Analysis
+- Clear explanation of WHY trends happened
+
+👥 Customer Behavior Insights
+- What customer activity shows
+
+🎯 Promotion Effectiveness
+- Impact of promotions on sales
+
+🚨 Anomaly Analysis
+- Explain unusual patterns
+
+📈 Forecast Insights
+- What future looks like
+
+⚠️ Risks
+- Key threats to business
+
+🚀 Opportunities
+- Growth areas
+
+💼 Strategic Recommendations
+
+Short-Term:
+- Action 1
+- Action 2
+
+Medium-Term:
+- Action 1
+- Action 2
+
+Long-Term:
+- Action 1
+- Action 2
+
+📢 Final Decision Advice
+- Clear business decision in 1–2 lines

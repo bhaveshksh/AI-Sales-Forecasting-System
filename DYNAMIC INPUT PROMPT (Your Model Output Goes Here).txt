@@ -1,0 +1,27 @@
+Sales Summary:
+- Time Range: {start_date} to {end_date}
+- Total Sales: {total_sales}
+- Sales Growth: {growth_percentage}%
+- Trend: {increasing/decreasing/stable}
+
+Customer Behavior:
+- Transactions Trend: {increase/decrease/stable}
+- Avg Transactions: {value}
+
+Promotions:
+- Promotion Trend: {increase/decrease}
+- Promotion Impact: {high/medium/low}
+
+Seasonality & External Factors:
+- Seasonality Present: {yes/no}
+- Holidays Impact: {describe}
+- Oil Price Impact: {describe if relevant}
+
+Forecast Results:
+- Next 30/90 Days Prediction: {forecast_values}
+- Expected Growth: {forecast_growth}%
+- Confidence Level: {high/medium/low}
+
+Anomalies Detected:
+- {date}: {spike/drop reason if known}
+- {date}: {spike/drop reason if known}

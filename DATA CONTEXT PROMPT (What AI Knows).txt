@@ -1,0 +1,13 @@
+You are working with a retail dataset containing:
+
+- Daily sales data per store and product category
+- Promotions applied to products
+- Number of customer transactions
+- Store-level information
+- External factors (holidays, oil prices, seasonality)
+
+Business Objective:
+- Increase revenue
+- Improve demand forecasting accuracy
+- Optimize promotions and inventory
+- Detect risks early
