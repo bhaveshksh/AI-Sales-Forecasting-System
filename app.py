@@ -209,7 +209,7 @@ with st.expander("Explore Postgres Database `sales_forecasting.master_data` View
 
 # Generate Prompt
 try:
-    with open("final_prompt.txt", "r", encoding="utf-8") as f:
+    with open("Prompt_files/final_prompt.txt", "r", encoding="utf-8") as f:
         prompt_template = f.read()
 except FileNotFoundError:
     st.error("final_prompt.txt not found. Please ensure it is in the project directory.")
