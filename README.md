@@ -229,7 +229,7 @@ This project is open source and available for educational and personal use.
 
 ## 👤 Author
 
-**Sonal** — Data Analytics & AI Enthusiast
+**Bhavesh** — Data Analytics & AI Enthusiast
 
 ---
 
